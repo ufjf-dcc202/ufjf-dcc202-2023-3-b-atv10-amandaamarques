@@ -8,3 +8,9 @@ function deJoaoParaMaria(){
     joao = 0;
 }
 
+function deMariaParaJoao(){
+    joao += maria;
+    maria = 0;
+}
+
+
