@@ -13,4 +13,14 @@ function deMariaParaJoao(){
     maria = 0;
 }
 
+// As funções getMaria e getJoao retornam o número atual de maçãs que Maria e João, respectivamente, possuem.
+
+function getJoao(){
+    return joao;
+}
+
+function getMaria(){
+    return maria;
+}
+
 
