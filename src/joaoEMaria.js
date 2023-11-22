@@ -23,4 +23,13 @@ function getMaria(){
     return maria;
 }
 
+// As funções setMaria e setJoao permitem alterar o número de maçãs que Maria e João possuem.
+
+function setJoao(m){
+    joao = m;
+}
+
+function setMaria(m){
+    maria = m;
+}
 
